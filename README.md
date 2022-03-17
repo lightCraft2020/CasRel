@@ -18,6 +18,11 @@ This repo was tested on Python 3.7 and Keras 2.2.4. The main requirements are:
 - codecs
 - keras-bert = 0.80.0
 - tensorflow-gpu = 1.13.1
+- keras-layer-normalization==0.15.0
+- keras-multi-head==0.28.0
+- keras-pos-embd==0.12.0
+- keras-position-wise-feed-forward==0.7.0
+- keras-transformer==0.33.0
 
 ## Datasets
 
